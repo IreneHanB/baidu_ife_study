@@ -2,7 +2,7 @@
 typora-root-url: asset
 ---
 
-## 课程目标
+## HTML课程目标
 
 第二天，我们希望你能够通过简单的实践，更加清楚地了解HTML是什么，HTML5是什么。学习基本的HTML标签，理解HTML语义化概念
 
@@ -14,7 +14,7 @@ typora-root-url: asset
 
 [W3C](https://www.w3.org/TR/2017/REC-html52-20171214/introduction.html#introduction):看下来的的人都太牛了叭
 
-## 验证
+## HTML验证
 
 来最后小验证一下，你是否能流畅地回答以下问题：
 
@@ -136,3 +136,24 @@ typora-root-url: asset
 
 - ol、ul、li适用无描述的列表。例如：新闻展示页面，一共N条新闻，点进去可浏览详情。
                   dl、dd、dt适用有描述的列表 例如：简历页面，介绍自己的信息、年龄、住址等。
+
+
+
+## CSS
+
+### 阅读
+
+上面的阅读和练习主要是让你认真地体会一下写CSS的感觉，接下来，我们需要按部就班一些。希望你认真阅读以下几个内容：
+
+- [MDN-CSS 介绍](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS)
+- [MDN-CSS如何工作](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
+- [MDN-CSS 语法](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Syntax)
+- [MDN-选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Selectors)
+- [MDN-简单选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+- [MDN-属性选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+
+然后可以暂时跳过伪类选择器，开始重新仔细看文本相关的样式
+
+- [MDN-基本文本和字体样式](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/为文本添加样式/Fundamentals)
+
+当然，你也可以选择阅读其它网站，比如W3School等上面相应的内容。
