@@ -1,5 +1,6 @@
 ---
 typora-root-url: asset
+typora-copy-images-to: ..\asset
 ---
 
 ## HTML课程目标
@@ -89,9 +90,9 @@ typora-root-url: asset
 
     HTML5标准更加的讲究语义化了，借用一张网上的图来说明这些新标签
 
-    ![html5-layout](/html5-layout.jpg)
+    
 
-    - `header元素`：header 元素代表“网页”或“section”的页眉。
+    - `header元素`：header 元素代![html5-layout](/../../asset/html5-layout.jpg)表“网页”或“section”的页眉。
 
     - `footer元素`：footer元素代表“网页”或“section”的页脚，通常含有该节的一些基本信息，譬如：作者，相关文档链接，版权资料。
 
@@ -121,8 +122,8 @@ typora-root-url: asset
 - br:在需要加回车换行的地方加入br，br标签作用相当于word文档中的回车。在 html  代码中输入回车、空格都是没有作用的。在html文本中想输入回车换行，就必须输入br。没有HTML内容的标签就是空标签，空标签只需要写一个开始标签，这样的标签有br、hr和img。
 - div:在网页制作过程过中，可以把一些独立的逻辑部分划分出来，放在一个div标签中，这个div标签的作用就相当于一个容器。什么是逻辑部分？它是页面上相互关联的一组元素。如网页中的独立的栏目版块，就是一个典型的逻辑部分。用id属性来为div提供唯一的名称，必须唯一。
 - img:插入图片,img src=”图片地址” alt=”下载失败时的替换文本” title = “提示文本”  src：标识图像的位置；alt：指定图像的描述性文本，当图像不可见时（下载不成功时），可看到该属性指定的文本；title：提供在图像可见时对图像的描述(鼠标滑过图片时显示的文本)；图像可以是GIF，PNG，JPEG格式的图像文件。
-- 表单标签都有哪些，对应着什么功能，都有哪些属性
-- ol, ul, li, dl, dd, dt等这些标签都适合用在什么地方，举个例子
+
+  
 
 #### 8、表单标签都有哪些，对应着什么功能，都有哪些属性
 
