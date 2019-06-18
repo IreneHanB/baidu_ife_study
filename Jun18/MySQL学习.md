@@ -15,3 +15,10 @@ navicat增删改查(https://blog.csdn.net/sisure_shen/article/details/81042254)
 查询
 
 select * from hello(表名) where name='Amy';
+
+
+
+idea连接数据库(https://blog.csdn.net/qq_27093465/article/details/52872582)
+
+
+

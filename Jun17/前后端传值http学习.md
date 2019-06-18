@@ -60,3 +60,10 @@ index.jsp
 </html>
 ```
 
+
+
+
+
+### post和get区别
+
+![getandpost](/getandpost.PNG)
